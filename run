@@ -1,0 +1,9 @@
+sudo dnf update -y
+    sudo dnf install mariadb105
+    sudo yum update -y
+    sudo yum install git -y
+    sudo dnf install python3
+    sudo dnf install python3-pip
+    pip3 install pymysql boto3
+    sudo dnf install python3-flask
+    sudo python3 -m pip install boto3
